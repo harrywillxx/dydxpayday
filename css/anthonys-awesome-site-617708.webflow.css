@@ -29,8 +29,10 @@
   width: 22rem;
   height: auto;
   min-height: 20rem;
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 29px;
+  padding-bottom: 29px;
+padding-left: 29px;
+padding-right: 29px;
   display: flex;
   position: relative;
 }
