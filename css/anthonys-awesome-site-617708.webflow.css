@@ -31,6 +31,8 @@
   min-height: 20rem;
   padding-top: 29px;
   padding-bottom: 29px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   display: flex;
   position: relative;
 }
